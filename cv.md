@@ -1,4 +1,4 @@
-1. Abdez Serik
+1. Abdez Serik.
 2. Telegram (@grimm) Gmail (uzipro31@gmail.com)
 3. I'm student at the moment and i want to become Front-end developer and find out my favorite job in IT.
 4. Skills: JS, Html, Css, English B1, Git , Github, Figma, Blender.
