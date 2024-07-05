@@ -5,4 +5,4 @@
 5. console.log("Hello World!");
 6. Junior Dev
 7. High College
-8. English: B1 Russian: C1
+8. English: B1 Russian: C2
